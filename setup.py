@@ -1,6 +1,6 @@
 import setuptools
 
-MODULE_NAME = "DeepDxAnalyzerBreast"
+MODULE_NAME = "DeepDxAnalyzerBiopsy"
 SOURCE_DIRECTORY_NAME = "Analyzer"
 packages = [
     p.replace(SOURCE_DIRECTORY_NAME, MODULE_NAME)
